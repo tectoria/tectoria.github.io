@@ -70,6 +70,7 @@ h6 {
      line-height: normal;
      color: #111111;
      margin: 0
+     z-index: 1;
 }
 
 h1 {
@@ -133,6 +134,7 @@ p {
      font-weight: 500;
      font-size: 15px;
      line-height: 24px;
+     z-index: 1;
 }
 
 a {
