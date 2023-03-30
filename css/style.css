@@ -880,4 +880,5 @@ ul.location_icon li a:hover {
  border-color: white;
  width: auto;
  height: auto;
+ z-index: -1;
 }
