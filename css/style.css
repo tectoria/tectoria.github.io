@@ -876,3 +876,8 @@ ul.location_icon li a:hover {
      margin-left: 200px;
      margin-right: 200px;
 }
+.filament {
+ border-color: white;
+ width: auto;
+ height: auto;
+}
